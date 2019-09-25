@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: pink;
+}
+
+.col-1{
+  height: 70px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.col-2{
+  height: 70px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.col-6{
+  height: 70px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.col-8{
+  height: 70px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.col-12{
+  height: 70px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.nested{
+  padding: 5px;
+  border: 2px solid white;
+  box-sizing: border-box;
+  background: rgb(189, 53, 65);
+
+}
