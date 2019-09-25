@@ -20,6 +20,13 @@ body{
   text-align: center;
 }
 
+.col-5{
+  height: 70px;
+  border: 1px solid black;
+  text-align: center;
+  background: lightgreen;
+}
+
 .col-6{
   height: 70px;
   border: 1px solid black;
